@@ -38,4 +38,4 @@ A secure and user-friendly password manager designed to help users safely store 
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to SecurePass, please fork the repository and submit a pull request.
+Contributions are welcome! If you'd like to contribute to SecurePass, please fork the repository and submit a pull request. 
